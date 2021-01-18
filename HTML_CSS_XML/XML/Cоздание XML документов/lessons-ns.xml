@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:TimeTable xmnls:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:item>
+		<myns:name>Курс №1</myns:name>
+		<myns:teacher>Преподаватель №1</myns:teacher>
+		<myns:begin>2019-08-28</myns:begin>
+		<myns:end>2019-09-28</myns:end>
+		<myns:escription>Описание курса №1</myns:description>
+	</myns:item>
+	<myns:item>
+		<myns:name>Курс №2</myns:name>
+		<myns:teacher>Преподаватель №2</myns:teacher>
+		<myns:begin>2020-09-28</myns:begin>
+		<myns:end>2020-10-28</myns:end>
+		<myns:escription>Описание курса №2</myns:description>
+	</myns:item>
+	<myns:item>
+		<myns:name>Курс №3</myns:name>
+		<myns:teacher>Преподаватель №3</myns:teacher>
+		<myns:begin>2021-10-28</myns:begin>
+		<myns:end>2021-11-28</myns:end>
+		<myns:escription>Описание курса №3</myns:description>
+	</myns:item>
+</myns:TimeTable>
