@@ -2,7 +2,7 @@
 <!DOCTYPE library SYSTEM "library.dtd">
 <library>
 	<book_catalog>
-		<book id = "ID" isbn = "" year = "" issue = "">
+		<book id = "ID" isbn = " " year = " " issue = "translate">
 			<authors>
 				<author></author>
 			</authors>
@@ -12,6 +12,6 @@
 		</book>
 	</book_catalog>
 	<author_catalog>
-		<author_book idref = ""></author_book>
+		<author_book idref = " "/>
 	</author_catalog>
 </library>
